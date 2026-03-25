@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-data=pd.read_csv('/content/enjoysports.csv')
+data=pd.read_csv('/content/joboffer.csv')
 attribute=np.array(data)[:,:-1]
 target=np.array(data)[:,-1]
 print("training data:\n")
@@ -17,7 +17,7 @@ def train(att,tar):
           specific_h[x]='?'
       else:
         pass
-        return specific_h
+  return specific_h
 print("\n")
 print(train(attribute,target))
 
