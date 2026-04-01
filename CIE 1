@@ -1,0 +1,120 @@
+CIE 1
+Total points
+4/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+Section
+*
+B
+Name 
+*
+Roshni
+USN
+*
+4MW23CS122
+
+
+
+ Applying a model to predict student pass/fail outcomes is an example of _______.  
+*
+0/1
+Semi supervised learning
+ 
+Regression
+Clustering
+None of the above
+Correct answer
+None of the above
+ 
+Artificial Intelligence is a subbranch of Deep Learning
+*
+1/1
+True
+False
+ 
+ 
+Scaling input data to a standard range before training is _______.
+
+*
+1/1
+Data Preprocessing
+Data Cleaning
+Data Normalization
+ 
+ 
+What learning type uses both labelled and unlabelled data?
+
+*
+0/1
+Reinforcement
+ 
+Supervised
+Unsupervised
+None of the above
+Correct answer
+None of the above
+ 
+Age of a person is _________ type of data.
+
+*
+0/1
+Integer
+ 
+Continuous
+Discrete
+All of the above
+Correct answer
+Continuous
+ 
+Processed data is called as ____________
+
+
+
+*
+0/1
+Database
+labelled data
+Information
+Qualitative data
+ 
+Correct answer
+Information
+ 
+  Grouping similar customers based on purchasing behavior without labels is _______.  
+*
+0/1
+Classification
+ 
+Regression
+Clustering
+Correct answer
+Clustering
+ 
+Cleaning and transforming raw data before training is called ________________
+
+*
+1/1
+Data Collection
+Data Preprocessing
+ 
+Data Transformation
+Data Normalization
+ 
+Median is not a measure of central tendency
+*
+1/1
+False
+ 
+True
+ 
+ When a model memorizes training data and fails on new data, it results in _______.  
+*
+0/1
+Bias
+ 
+Variance
+Overfitting
+Underfitting
+Correct answer
+Overfitting
