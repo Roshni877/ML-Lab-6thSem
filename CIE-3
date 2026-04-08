@@ -1,0 +1,87 @@
+CIE 3
+Total points
+7/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+USN
+*
+4MW23CS122
+Section
+*
+B
+Name
+*
+Roshni
+Questions
+7 of 10 points
+Which metric is used for classification?
+*
+0/1
+A) Mean Squared Error
+B) Accuracy
+C) RMSE
+D) Variance
+  In Find-S, ‘?’ represents:  
+*
+1/1
+D) Missing data
+C) Error
+A) Unknown value
+B) Any value (generalization)
+PCA is considered
+*
+1/1
+C) Unsupervised learning
+B) Reinforcement learning
+D) Semi-supervised learning
+A) Supervised learning
+  Before applying PCA, data should be:  
+*
+1/1
+D) Encoded
+C) Deleted
+A) Sorted
+B) Normalized
+  Underfitting happens when:  
+*
+0/1
+C) Model is too simple
+D) Data is too large
+B) Model learns noise
+A) Model is too complex
+  If two features have high covariance, it means:  
+*
+1/1
+C) They are useless
+A) They are independent
+B) They are strongly related
+D) They are errors
+  Train-test split is used to:  
+*
+0/1
+D) Normalize data
+B) Evaluate model performance
+C) Increase accuracy
+A) Reduce data
+PCA components are ranked by
+*
+1/1
+C) Labels
+A) Mean
+D) Distance
+B) Eigenvalues
+  Accuracy is not a good metric when:  
+*
+1/1
+A) Data is small
+C) Data is imbalanced
+B) Data is balanced
+D) Data is normalized
+  The goal of Find-S algorithm is to:  
+*
+1/1
+D) Classify data
+C) Find most specific hypothesis
+A) Find all hypotheses
+B) Find most general hypothesis
