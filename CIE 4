@@ -1,0 +1,86 @@
+CIE 4
+Total points
+10/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+Name
+*
+Roshni
+USN
+*
+4MW23CS122
+Section
+*
+B
+Questions
+10 of 10 points
+  Similarity-based learning is also known as:  
+*
+1/1
+Rule-based learning
+Instance-based learning
+Supervised clustering
+Model-based learning
+  What is required before applying k-NN?  
+*
+1/1
+Feature removal
+Distance calculation
+None of the above
+  Find-S works only with which type of examples?  
+*
+1/1
+Both positive and negative
+Random examples
+Only positive examples
+Negative examples
+  Find-S cannot handle:  
+*
+1/1
+Small datasets
+Noisy data
+Binary attributes
+CSV files
+  Hypothesis space means:  
+*
+1/1
+CSV file
+Dataset size
+Algorithm steps
+Set of all possible hypotheses
+  In k-NN, classification is based on:  
+*
+1/1
+Probability
+Euclidean distance
+Weights assignment
+Majority voting
+  If attribute values differ in positive examples, Find-S will:  
+*
+1/1
+Keep same value
+Replace with '?'
+Ignore attribute
+Delete attribute
+  k-NN is an example of:  
+*
+1/1
+Lazy learning
+Deep Learning
+Eager learning
+Reinforcement learning
+  Training data in Find-S is usually stored in:  
+*
+1/1
+.html
+.txt
+.csv
+.exe
+Main limitation of Find-S is:  
+*
+1/1
+Too complex
+Requires GPU
+Ignores negative examples
+Needs large memory
