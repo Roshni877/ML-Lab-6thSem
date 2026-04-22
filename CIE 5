@@ -1,0 +1,87 @@
+CIE 5
+Total points
+10/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+Name
+*
+Roshni
+USN
+*
+4MW23CS122
+Section
+*
+B
+Questions
+10 of 10 points
+  KNN can be used for:  
+*
+1/1
+Only clustering
+Only regression
+Both classification and regression
+Only classification
+  Time complexity of KNN during prediction is high because:  
+*
+1/1
+It compares with all training points
+It retrains every time
+It reduces dataset
+It uses deep learning
+  If all nearest neighbours belong to Class2, predicted class will be:  
+*
+1/1
+None
+Both
+Class1
+Class2
+  If k = 1, classification depends on:  
+*
+1/1
+Random choice
+All neighbours
+Majority of dataset
+Single nearest neighbour
+  KNN is called a lazy learner because:  
+*
+1/1
+It removes noise
+It trains very fast
+It does not store data
+It delays computation until prediction
+  Small value of k (like 1) may lead to:  
+*
+1/1
+High bias
+Overfitting
+No classification
+Underfitting
+  Distance used in this 1D problem is:  
+*
+1/1
+Manhattan distance
+Hamming distance
+Euclidean distance
+Cosine similarity
+  What does ‘k’ represent in KNN?  
+*
+1/1
+Number of iterations
+Number of nearest neighbours
+Number of features
+Number of classes
+  Large value of k may lead to:  
+*
+1/1
+Underfitting
+Exact classification
+Overfitting
+No effect
+  k-Nearest Neighbour (KNN) is what type of algorithm?  
+*
+1/1
+Reinforcement learning
+Unsupervised learning
+Semi-supervised learning
+Supervised learning
