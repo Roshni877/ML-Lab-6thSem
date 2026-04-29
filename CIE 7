@@ -1,0 +1,89 @@
+CIE 7
+Total points
+10/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+Name
+*
+Roshni
+Section
+*
+B
+USN
+*
+4MW23CS122
+Questions
+10 of 10 points
+Polynomial Regression curve looks like:
+
+*
+1/1
+Straight line
+Curved line
+Step function
+Random noise
+Auto MPG Dataset is used to predict:
+
+*
+1/1
+House rent
+Engine power
+Fuel efficiency
+Speed
+   Linear Regression assumes relationship is:  
+*
+1/1
+Linear
+Random
+Exponential
+Discrete
+  Polynomial Regression can model:  
+*
+1/1
+Only straight lines
+Non-linear relationships
+Only binary data
+Only categorical data
+  Common loss function used is:  
+*
+1/1
+Cross entropy
+Mean Squared Error
+Hinge loss
+Log loss
+  Linear Regression is used for:  
+*
+1/1
+Classification
+Regression
+Clustering
+Association
+  Linear Regression equation is of form:  
+*
+1/1
+y = mx + c
+y = x²
+y = log(x)
+y = sin(x)
+  Boston Housing Dataset is used to predict:  
+*
+1/1
+Car mileage
+House prices
+Population
+Weather
+  Polynomial Regression equation includes:  
+*
+1/1
+Only x
+Powers of x
+Only constants
+Only logs
+  If polynomial degree = 1, it becomes:  
+*
+1/1
+Logistic Regression
+Linear Regression
+KNN
+SVM
