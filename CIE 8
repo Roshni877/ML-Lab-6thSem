@@ -1,0 +1,89 @@
+CIE 8
+Total points
+9/10
+ 
+The respondent's email (roshni.23cs122@sode-edu.in) was recorded on submission of this form.
+0 of 0 points
+USN
+*
+4MW23CS122
+Name
+*
+Roshni
+Section
+*
+B
+Questions
+9 of 10 points
+  Breast Cancer dataset is used for:  
+*
+1/1
+Regression
+Image processing
+Classification
+Clustering
+  Decision Tree can handle:  
+*
+1/1
+Only numerical data
+Only categorical data
+Both numerical and categorical data
+Only text data
+  Common criterion used for splitting in Decision Tree is:  
+*
+1/1
+Euclidean distance
+Entropy
+Cosine similarity
+Manhattan distance
+Decision Tree is mainly used for:
+
+*
+0/1
+Regression only
+Classification and regression
+Clustering
+Dimensionality reduction
+  Final nodes of the tree are called:  
+*
+1/1
+Root nodes
+Leaf nodes
+Parent nodes
+Hidden nodes
+Decision Tree structure consists of:
+
+*
+1/1
+Nodes and edges
+Layers and neurons
+Tables and rows
+Clusters
+  The top node of a decision tree is called:  
+*
+1/1
+Leaf node
+Root node
+Child node
+Decision boundary
+  Information Gain is used to:  
+*
+1/1
+Reduce dataset size
+Select best feature for split
+Normalize data
+Remove noise
+  Entropy measures:  
+*
+1/1
+Distance
+Disorder or impurity
+Accuracy
+Size
+  A decision tree splits data based on:  
+*
+1/1
+Random selection
+Feature values
+Dataset size
+Labels only
